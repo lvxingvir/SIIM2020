@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/EfficientUnet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EfficientUnet-PyTorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/auto_augment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytorch-auto-augment" vcs="Git" />
+  </component>
+</project>
